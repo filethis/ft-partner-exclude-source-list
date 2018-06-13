@@ -1,6 +1,6 @@
 # Project configuration
 NAME=ft-partner-exclude-source-list
-VERSION=1.0.4
+VERSION=1.0.5
 LOCAL_PORT=3526
 GITHUB_USER=filethis
 GITHUB_USER_ABBREV=ft-partner-exclude-source-list
