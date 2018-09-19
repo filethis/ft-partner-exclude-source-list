@@ -3,7 +3,7 @@
     "description": "A list of sources to exclude for partner.",
     "main": "ft-partner-exclude-source-list.html",
     "dependencies": {
-        "ft-element-demo": "filethis/ft-element-demo#^1.0.13",
+        "ft-element-demo": "filethis/ft-element-demo#^1.0.14",
         "polymer": "Polymer/polymer#1.9 - 2"
     },
     "devDependencies": {
